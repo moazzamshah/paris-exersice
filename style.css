@@ -1,0 +1,46 @@
+body {
+  background-color: #e5f4f9;
+}
+
+img {
+  height: 300px;
+}
+
+.heading {
+  font-family: 'Courgette', cursive;
+
+}
+
+.blue {
+  color: blue;
+  font-weight: bold;
+}
+
+.red {
+  color: red;
+  font-weight: bold;
+}
+
+.font-design {
+  font-weight: bold;
+  font-style: italic;
+}
+
+p {
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.description {
+  text-align: left;
+}
+
+
+.link {
+  color: red;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.link:hover {
+  color: green;
+}
